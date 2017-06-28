@@ -1,0 +1,13 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.jumbotron {
+background-image: url('https://imgix.ranker.com/list_img_v2/6525/2086525/original/the-best-kids-cartoons-of-all-time-u1?w=817&h=427&fm=jpg&q=50&fit=crop');
+}
+.jumbotron h1{
+  color: #f4fc00;
+  text-shadow: 2px 2px black;
+  text-align: center;
+}
